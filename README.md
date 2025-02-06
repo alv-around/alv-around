@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 I am Alv, a software engineer and former PhD student in Computer Science. 
 I am passionate about Zero Knowledge / Succint Proofs, where I was previously researching, however I am more of a builder 👷 than a man of science 🧑‍🔬. 
-For this reason, I am currently studying zk-SNARKs full-time and rusting off my rust skills in hopes of getting a job in the industry 🤞.
 
 📫 How to reach me: discord -> zen_otter_74825 
