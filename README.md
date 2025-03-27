@@ -1,21 +1,10 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**alv-around/alv-around** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=000000&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80hi+there+👋+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+📫 Reach me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zen_otter_74825)
+[![Email](https://img.shields.io/badge/Email-30B980?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact-alv@pm.me)
+</div>
 
-I am Alv, a software engineer and former PhD student in Computer Science. 
-I am passionate about Zero Knowledge / Succint Proofs, where I was previously researching, however I am more of a builder 👷 than a man of science 🧑‍🔬. 
-
-📫 How to reach me: discord -> zen_otter_74825 
